@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>This is fake</name>
+			<url>https://cydia.appleboblin.com</url>
+			<iconclass>fa fa-repo</iconclass>
+		</link>
+		<link>
+			<name>I Am Fake</name>
+			<url>https://github.com/appleboblin/cydia/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
